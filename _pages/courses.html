@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "Courses"
+permalink: /courses/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign courses = site.courses | where: "course_index", true | sort: "title" %}
+{% for post in courses %}
+  {% include archive-single.html %}
+{% endfor %}
