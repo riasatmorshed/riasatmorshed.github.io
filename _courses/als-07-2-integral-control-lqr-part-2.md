@@ -1,4 +1,4 @@
-﻿---
+---
 title: "07.2 Integral Control (LQR) - Part 2"
 collection: courses
 permalink: /courses/applied-linear-systems/07-2-integral-control-lqr-part-2/

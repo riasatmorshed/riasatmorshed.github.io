@@ -1,4 +1,4 @@
-﻿---
+---
 title: "04.3 Transfer Function Matrix - A Misconception"
 collection: courses
 permalink: /courses/applied-linear-systems/04-3-transfer-function-matrix-a-misconception/

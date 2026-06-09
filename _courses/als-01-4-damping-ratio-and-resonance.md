@@ -1,4 +1,4 @@
-﻿---
+---
 title: "01.4 Damping Ratio and Resonance"
 collection: courses
 permalink: /courses/applied-linear-systems/01-4-damping-ratio-and-resonance/

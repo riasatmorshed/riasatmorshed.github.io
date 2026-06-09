@@ -1,4 +1,4 @@
-﻿---
+---
 title: "00 Course Notes - Reading Order"
 collection: courses
 permalink: /courses/applied-linear-systems/00-course-notes-reading-order/

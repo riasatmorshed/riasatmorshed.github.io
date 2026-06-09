@@ -1,4 +1,4 @@
-﻿---
+---
 title: "01.2 DC Gain Explained"
 collection: courses
 permalink: /courses/applied-linear-systems/01-2-dc-gain-explained/

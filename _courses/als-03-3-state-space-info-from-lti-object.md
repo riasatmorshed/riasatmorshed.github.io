@@ -1,4 +1,4 @@
-﻿---
+---
 title: "03.3 State-Space Info from LTI Object"
 collection: courses
 permalink: /courses/applied-linear-systems/03-3-state-space-info-from-lti-object/

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "03.1 Creating a LTI Object in MATLAB - Part 1"
 collection: courses
 permalink: /courses/applied-linear-systems/03-1-creating-a-lti-object-in-matlab-part-1/

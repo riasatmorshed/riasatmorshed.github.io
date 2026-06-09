@@ -1,4 +1,4 @@
-﻿---
+---
 title: "02.3 Gain Margin and Phase Margin"
 collection: courses
 permalink: /courses/applied-linear-systems/02-3-gain-margin-and-phase-margin/

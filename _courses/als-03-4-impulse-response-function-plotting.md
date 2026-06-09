@@ -1,4 +1,4 @@
-﻿---
+---
 title: "03.4 Impulse Response Function Plotting"
 collection: courses
 permalink: /courses/applied-linear-systems/03-4-impulse-response-function-plotting/

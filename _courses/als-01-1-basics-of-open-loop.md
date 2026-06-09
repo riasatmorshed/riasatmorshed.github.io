@@ -1,4 +1,4 @@
-﻿---
+---
 title: "01.1 Basics of Open Loop"
 collection: courses
 permalink: /courses/applied-linear-systems/01-1-basics-of-open-loop/

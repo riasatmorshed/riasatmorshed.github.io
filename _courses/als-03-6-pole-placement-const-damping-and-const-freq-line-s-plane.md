@@ -1,4 +1,4 @@
-﻿---
+---
 title: "03.6 Pole Placement (Const Damping and Const Freq Line) s-plane"
 collection: courses
 permalink: /courses/applied-linear-systems/03-6-pole-placement-const-damping-and-const-freq-line-s-plane/

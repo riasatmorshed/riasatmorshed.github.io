@@ -1,4 +1,4 @@
-﻿---
+---
 title: "02.2 Closed Loop System with Feedback Control"
 collection: courses
 permalink: /courses/applied-linear-systems/02-2-closed-loop-system-with-feedback-control/

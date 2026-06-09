@@ -1,4 +1,4 @@
-﻿---
+---
 title: "01.6 Decibel Interpretation"
 collection: courses
 permalink: /courses/applied-linear-systems/01-6-decibel-interpretation/

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "01.5 Bandwidth Definition"
 collection: courses
 permalink: /courses/applied-linear-systems/01-5-bandwidth-definition/

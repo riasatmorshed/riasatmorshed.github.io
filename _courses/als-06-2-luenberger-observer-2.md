@@ -1,4 +1,4 @@
-﻿---
+---
 title: "06.2 Luenberger Observer - 2"
 collection: courses
 permalink: /courses/applied-linear-systems/06-2-luenberger-observer-2/

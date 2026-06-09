@@ -1,4 +1,4 @@
-﻿---
+---
 title: "02.4 Controller or Compensator Design"
 collection: courses
 permalink: /courses/applied-linear-systems/02-4-controller-or-compensator-design/

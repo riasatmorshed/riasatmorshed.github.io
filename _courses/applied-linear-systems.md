@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Applied Linear Systems"
 collection: courses
 course_index: true

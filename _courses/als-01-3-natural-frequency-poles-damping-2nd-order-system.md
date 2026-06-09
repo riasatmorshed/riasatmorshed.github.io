@@ -1,4 +1,4 @@
-﻿---
+---
 title: "01.3 Natural Frequency, Poles, Damping (2nd Order System)"
 collection: courses
 permalink: /courses/applied-linear-systems/01-3-natural-frequency-poles-damping-2nd-order-system/

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "06.4 Augmented System - 2 with Control Command"
 collection: courses
 permalink: /courses/applied-linear-systems/06-4-augmented-system-2-with-control-command/

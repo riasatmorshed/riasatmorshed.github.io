@@ -1,4 +1,4 @@
-﻿---
+---
 title: "03.2 Creating a LTI Object in MATLAB - Part 2 (Conversion)"
 collection: courses
 permalink: /courses/applied-linear-systems/03-2-creating-a-lti-object-in-matlab-part-2-conversion/

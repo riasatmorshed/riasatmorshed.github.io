@@ -1,4 +1,4 @@
-﻿---
+---
 title: "06.1 Luenberger Observer (State Estimation) - Full State Feedback - 2"
 collection: courses
 permalink: /courses/applied-linear-systems/06-1-luenberger-observer-state-estimation-full-state-feedback-2/

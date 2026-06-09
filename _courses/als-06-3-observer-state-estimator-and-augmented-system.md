@@ -1,4 +1,4 @@
-﻿---
+---
 title: "06.3 Observer (State Estimator) and Augmented System"
 collection: courses
 permalink: /courses/applied-linear-systems/06-3-observer-state-estimator-and-augmented-system/

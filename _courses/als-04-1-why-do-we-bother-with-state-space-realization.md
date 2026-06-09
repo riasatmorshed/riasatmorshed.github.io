@@ -1,4 +1,4 @@
-﻿---
+---
 title: "04.1 Why Do We Bother with State-Space Realization"
 collection: courses
 permalink: /courses/applied-linear-systems/04-1-why-do-we-bother-with-state-space-realization/

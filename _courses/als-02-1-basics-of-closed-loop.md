@@ -1,4 +1,4 @@
-﻿---
+---
 title: "02.1 Basics of Closed Loop"
 collection: courses
 permalink: /courses/applied-linear-systems/02-1-basics-of-closed-loop/

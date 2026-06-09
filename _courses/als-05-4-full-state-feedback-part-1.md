@@ -1,4 +1,4 @@
-﻿---
+---
 title: "05.4 Full State Feedback - Part 1"
 collection: courses
 permalink: /courses/applied-linear-systems/05-4-full-state-feedback-part-1/

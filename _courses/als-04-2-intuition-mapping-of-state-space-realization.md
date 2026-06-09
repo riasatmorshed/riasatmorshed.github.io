@@ -1,4 +1,4 @@
-﻿---
+---
 title: "04.2 Intuition (Mapping) of State-Space Realization"
 collection: courses
 permalink: /courses/applied-linear-systems/04-2-intuition-mapping-of-state-space-realization/

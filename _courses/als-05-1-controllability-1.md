@@ -1,4 +1,4 @@
-﻿---
+---
 title: "05.1 Controllability 1"
 collection: courses
 permalink: /courses/applied-linear-systems/05-1-controllability-1/

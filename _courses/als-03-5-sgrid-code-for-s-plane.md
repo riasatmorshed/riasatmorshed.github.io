@@ -1,4 +1,4 @@
-﻿---
+---
 title: "03.5 sgrid Code for s-plane"
 collection: courses
 permalink: /courses/applied-linear-systems/03-5-sgrid-code-for-s-plane/
