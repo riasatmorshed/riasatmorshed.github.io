@@ -6,7 +6,11 @@ permalink: /courses/applied-linear-systems/
 excerpt: "Course notes for Applied Linear Systems."
 ---
 
-These notes are organized as a beginner-friendly path through linear systems and control. Start with open-loop and second-order system ideas, then move into closed-loop intuition, MATLAB/state-space tools, controllability, observers, and finally integral control/LQR.
+These are notes I jotted down for my own reference when I was new to this field. I took the graduate-level **Applied Linear Systems** course taught by Dr. Steve Southward, an amazing professor, and the snippets here come from his class notes.
+
+At first, I just wanted a reference I could return to whenever I needed to refresh the ideas. Later, I decided to organize the notes a bit more and put them on my website.
+
+This whole thing is still under improvement.
 
 ## 1. Open Loop and Second-Order System Basics
 
@@ -46,8 +50,6 @@ These notes are organized as a beginner-friendly path through linear systems and
 
 [Pole Placement (Const Damping and Const Freq Line) s-plane](/courses/applied-linear-systems/03-6-pole-placement-const-damping-and-const-freq-line-s-plane/)
 
-[Drawing Block Diagram in LaTeX](/courses/applied-linear-systems/03-7-drawing-block-diagram-in-latex/)
-
 ## 4. Why State-Space Matters
 
 [Why Do We Bother with State-Space Realization](/courses/applied-linear-systems/04-1-why-do-we-bother-with-state-space-realization/)
@@ -62,7 +64,7 @@ These notes are organized as a beginner-friendly path through linear systems and
 
 [Controllability 2](/courses/applied-linear-systems/05-2-controllability-2/)
 
-[Draft - Why Observability and Controllability are Dual Problems](/courses/applied-linear-systems/05-3-draft-why-observability-and-controllability-are-dual-problems/)
+[TODO - Why Observability and Controllability are Dual Problems](/courses/applied-linear-systems/05-3-draft-why-observability-and-controllability-are-dual-problems/)
 
 [Full State Feedback - Part 1](/courses/applied-linear-systems/05-4-full-state-feedback-part-1/)
 
@@ -87,4 +89,6 @@ These notes are organized as a beginner-friendly path through linear systems and
 ## Future Appendix
 
 [Future Appendix - ODE Solving in MATLAB (with Function)](/courses/applied-linear-systems/08-1-future-appendix-ode-solving-in-matlab-with-function/)
+
+[Final Project Explanation](/courses/applied-linear-systems/final-project-explanation/)
 

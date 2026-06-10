@@ -8,5 +8,3 @@ redirect_from:
 ---
 
 Water Power Technology | Mechanical Engineering PhD Student
-
-I am a Mechanical Engineering PhD student at Virginia Tech.
