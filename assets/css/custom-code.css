@@ -1,0 +1,88 @@
+.page__content code {
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+.page__content :not(pre) > code {
+  background: #f3f5f7;
+  border: 1px solid #dce3ea;
+  border-radius: 4px;
+  color: #9a3412;
+  font-size: 0.9em;
+  padding: 0.08rem 0.28rem;
+  white-space: nowrap;
+}
+
+.page__content pre,
+.page__content div.highlighter-rouge,
+.page__content figure.highlight {
+  margin: 1rem 0 1.25rem;
+}
+
+.page__content pre,
+.page__content div.highlight {
+  background: #0f172a;
+  border: 1px solid #243047;
+  border-radius: 6px;
+  color: #e5e7eb;
+  overflow-x: auto;
+}
+
+.page__content pre {
+  padding: 1rem;
+}
+
+.page__content div.highlight pre {
+  margin: 0;
+}
+
+.page__content pre code,
+.page__content div.highlight code {
+  background: transparent;
+  border: 0;
+  color: inherit;
+  display: block;
+  font-size: 0.88rem;
+  line-height: 1.6;
+  padding: 0;
+  white-space: pre;
+}
+
+.highlight .c,
+.highlight .c1,
+.highlight .cm {
+  color: #94a3b8;
+  font-style: italic;
+}
+
+.highlight .k,
+.highlight .kd,
+.highlight .kn,
+.highlight .kp,
+.highlight .kr {
+  color: #93c5fd;
+  font-weight: 600;
+}
+
+.highlight .nb,
+.highlight .nf,
+.highlight .n,
+.highlight .nx {
+  color: #e5e7eb;
+}
+
+.highlight .mi,
+.highlight .mf,
+.highlight .m {
+  color: #fbbf24;
+}
+
+.highlight .s,
+.highlight .s1,
+.highlight .s2 {
+  color: #86efac;
+}
+
+.highlight .o,
+.highlight .p {
+  color: #c4b5fd;
+}
