@@ -46,4 +46,3 @@ From a computational standpoint, state-space is much more "efficient" for simula
 
 > **Note:** This "realization" isn't unique. You can represent the same physical system using many different sets of matrices (Controller Canonical Form, Observer Canonical Form, etc.). We usually pick the one that makes the "manipulation" easiest for our specific goal.
 
-**Would you like to look at how to transform a specific transfer function into a Controller Canonical Form to see this linear algebra in action?**
