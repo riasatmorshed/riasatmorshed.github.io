@@ -34,7 +34,7 @@ y &= (C-DG)x \end{aligned}$$
 
 Now, this does not look exactly like the canonical state-space form, right? But we can still treat it as a state-space system by defining the new closed-loop matrices like this:
 
-```octave
+```matlab
 A = A_ol - B_ol * G;
 C = C_ol - D_ol * G;
 ```
@@ -43,7 +43,7 @@ C = C_ol - D_ol * G;
 
 Now, with that:
 
-```octave
+```matlab
 Acl = Aol - Bol*G_sys;
 
 Ccl = [Col - Dol*G_sys;

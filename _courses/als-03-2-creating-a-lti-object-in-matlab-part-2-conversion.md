@@ -18,7 +18,7 @@ ident_mat = eye(m)
 G(s) = C*inv((s*ident_mat-A))B+D
 ```
 ## Method 2 (State-Space to Transfer Function)
-```octave
+```matlab
 [num, den] = ss2tf(A,B,C,D)
 sys_tf = tf[num,den]
 ```

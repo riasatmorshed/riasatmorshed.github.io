@@ -33,7 +33,7 @@ MATLAB has a function `dcgain()`. Just pass a LTI object and it will give you a 
 ### Method 2
 You can also use `freqresp` function to get DC Gain. `freqresp` gives you the output at a particular frequency or for an array of frequency if you give it an **LTI Object**
 
-```octave
+```matlab
 DC_gain = freqresp(P1_ss, 2*pi*0) %always convert the input to radian.
 ```
 

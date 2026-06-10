@@ -52,7 +52,7 @@ $$
 
 For the same problem MATLAB code is:
 
-```octave
+```matlab
 s_coeff = [1 -2.51327 -86.85252 -496.1 0];
 eigenVal_roots = roots(s_coeff);
 

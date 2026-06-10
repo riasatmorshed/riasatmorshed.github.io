@@ -19,7 +19,7 @@ $$\ddot{y}+10\dot{y}+26y = 52\dot{u}+468u$$
 $$s^y + 10s y + 26y = 52s u + 468u$$
 $$\rightarrow (s^2+10s+26)y = 52(s+9)u $$
 $$\rightarrow \frac{y}{u} = \frac{52(s+9)}{s^2+10s+26}$$
-```octave
+```matlab
 num = 52 * [1 9];
 den = [1 10 26];
 P1_tf = tf(num, den)
@@ -36,7 +36,7 @@ $$A = \begin{bmatrix} 0 & 1 \\ -26 & -10 \end{bmatrix} B = \begin{bmatrix}0&0\\4
 What I assumed was $C=\begin{bmatrix}1&0\end{bmatrix}$ because my logic was: Typically, for a SISO system, the output y=x1, which corresponds to the first state variable, that is $y=Cx$.
 ==But this is wrong==! And my code was the following:
 
-```octave
+```matlab
 clear; clc; close all;
 
 A = [0 1;-26 -10];
